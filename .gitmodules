@@ -1,0 +1,3 @@
+[submodule "Assets/Libraries/lib_unity_Test"]
+	path = Assets/Libraries/lib_unity_Test
+	url = git@github.com:saltatory/lib_unity_Test.git
